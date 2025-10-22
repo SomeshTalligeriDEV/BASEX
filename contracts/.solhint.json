@@ -1,0 +1,10 @@
+{
+  "excludeFiles": [
+    "node_modules/**",
+    "artifacts/**",
+    "cache/**",
+    "ignition/**"
+  ],
+  "extends": [],
+  "rules": {}
+}
