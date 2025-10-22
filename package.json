@@ -1,5 +1,5 @@
 {
-  "name": "oracleview",
+  "name": "basexview",
   "version": "1.0.0",
   "description": "YouTube video analysis oracle system",
   "main": "server.js",
